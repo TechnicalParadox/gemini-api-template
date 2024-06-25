@@ -1,4 +1,4 @@
-dimport google.generativeai as genai
+import google.generativeai as genai
 import os
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
